@@ -1,0 +1,129 @@
+id,name,type,senderart,Online,Print,TV,Radio,Studium,Ausbildung,Praktikum,Volontariat
+AmbrosiusF,FlorianAmbrosius,0,,0,0,0,0,0,0,0,0
+Ausbildung_Elektronikfacharbeit,AusbildungElektronikfacharbeit,1,,0,0,0,0,0,1,0,0
+Ausbildung_Journalistenschule,AusbildungJournalsitenschule,1,,0,0,0,0,0,1,0,0
+Ausbildung_Meteorologie,AusbildungMeteorologie,1,,0,0,0,0,0,1,0,0
+Ausbildung_Moderation,AusbildungModeration,1,,0,0,0,0,0,1,0,0
+Ausbildung_Sportreporter,AusbildungSportreporter,1,,0,0,0,0,0,1,0,0
+Ausbildung_Werbekauffrau,AusbildungWerbekauffrau,1,,0,0,0,0,0,1,0,0
+BaeckerD,DonaldBaecker,0,,0,0,0,0,0,0,0,0
+BiewerM,MaxiBiewer,0,,0,0,0,0,0,0,0,0
+BoschmannD,DanielBoschmann,0,,0,0,0,0,0,0,0,0
+BreyerJ,JochenBreyer,0,,0,0,0,0,0,0,0,0
+FingererbenA,AngelaFingererben,0,,0,0,0,0,0,0,0,0
+GrossmannP,PeterGroßmann,0,,0,0,0,0,0,0,0,0
+HahnJ,JanHahn,0,,0,0,0,0,0,0,0,0
+HayaliD,DunjaHayali,0,,0,0,0,0,0,0,0,0
+HeinrichK,KarenHeinrich,0,,0,0,0,0,0,0,0,0
+HeydeA,AnjaHeyde,0,,0,0,0,0,0,0,0,0
+ImhofE,EvaImhof,0,,0,0,0,0,0,0,0,0
+KillingM,MatthiasKilling,0,,0,0,0,0,0,0,0,0
+KnaebleJ,JenniferKnaeble,0,,0,0,0,0,0,0,0,0
+KonsW,WolfgangKons,0,,0,0,0,0,0,0,0,0
+LinkS,SusanLink,0,,0,0,0,0,0,0,0,0
+LorigS,SvenLorig,0,,0,0,0,0,0,0,0,0
+LufenM,MarleneLufen,0,,0,0,0,0,0,0,0,0
+MeierC,ChristianeMeier,0,,0,0,0,0,0,0,0,0
+NassifT,TilNassif,0,,0,0,0,0,0,0,0,0
+NaumannS,SaskiaNaumann,0,,0,0,0,0,0,0,0,0
+Online_Spox.com,Spoxcom,1,privat,1,0,0,0,0,0,0,0
+Online_ZeitOnline,ZeitOnline,1,privat,1,0,0,0,0,0,0,0
+PareigisJ,JanePareigis,0,,0,0,0,0,0,0,0,0
+PlankenA,AnnaPlanken,0,,0,0,0,0,0,0,0,0
+Praktikum_Radio_DeutscheWelle,PraktikumDeutscheWelle,1,oeffentlich rechtlich,0,0,0,1,0,0,1,0
+Praktikum_TV_ABC,PraktikumABC,1,privat,0,0,1,0,0,0,1,0
+Praktikum_TV_Eurosport,PraktikumEurosport,1,privat,0,0,1,0,0,0,1,0
+Praktikum_TV_SAT1,Praktikum SAT1,1,privat,0,0,1,0,0,0,1,0
+Praktikum_TV_SKY,Praktikum Sky,1,privat,0,0,1,0,0,0,1,0
+Praktikum_Zeitung_Bild,Praktikum Bild,1,privat,0,1,0,0,0,0,1,0
+Radio_Bayrisches_Lokalradio,Bayrisches Lokalradio,1,privat,0,0,0,1,0,0,0,0
+Radio_BR,Bayrischer Rundfunk,1,oeffentlich rechtlich,0,0,0,1,0,0,0,0
+Radio_Charivari,Radio Charivari,1,,0,0,0,1,0,0,0,0
+Radio_DeutscheWelle,Radio Deutsche Welle,1,oeffentlich rechtlich,0,0,0,1,0,0,0,0
+Radio_Energy_Berlin,Radio Energy Berlin,1,privat,0,0,0,1,0,0,0,0
+Radio_Energy_Sachsen,Radio Energy Sachsen,1,privat,0,0,0,1,0,0,0,0
+Radio_KissFM,Kiss FM,1,privat,0,0,0,1,0,0,0,0
+Radio_MDR,MDR,1,oeffentlich rechtlich,0,0,0,1,0,0,0,0
+Radio_Neandertal,Radio Neandertal,1,,0,0,0,1,0,0,0,0
+Radio_NRJ,Radio NRJ,1,privat,0,0,0,1,0,0,0,0
+Radio_RadioBremen,Radio Bremen,1,oeffentlich rechtlich,0,0,0,1,0,0,0,0
+Radio_RadioDortmund,Radio Dortmund,1,privat,0,0,0,1,0,0,0,0
+Radio_RadioKoeln,Radio Koeln,1,privat,0,0,0,1,0,0,0,0
+Radio_RadioMultikulti,Radio Multikulti,1,oeffentlich rechtlich,0,0,0,1,0,0,0,0
+Radio_RadioWuppertal,Radio Wuppertal,1,privat,0,0,0,1,0,0,0,0
+Radio_rs2,RS2,1,privat,0,0,0,1,0,0,0,0
+Radio_RTL,RTL Radio,1,privat,0,0,0,1,0,0,0,0
+Radio_SenderPotsdam,Sender Potsdam,1,,0,0,0,1,0,0,0,0
+Radio_SpreeRadio,Spreeradio,1,privat,0,0,0,1,0,0,0,0
+Radio_StarFM,Star FM,1,privat,0,0,0,1,0,0,0,0
+Radio_Untersberg,Radio Untersberg,1,,0,0,0,1,0,0,0,0
+Radio_YouFM,YouFM,1,oeffentlich rechtlich,0,0,0,1,0,0,0,0
+SchumacherS,Susanne Schumacher,0,,0,0,0,0,0,0,0,0
+SirinM,Mitrin Sirin,0,,0,0,0,0,0,0,0,0
+SkulskiT,Thomas Skulski,0,,0,0,0,0,0,0,0,0
+StoeweB,Benjamin Stoewe,0,,0,0,0,0,0,0,0,0
+Studium_Afrikanistik,Afrikanistikstudium,1,,0,0,0,0,1,0,0,0
+Studium_Amerikanistik,Amerikanistikstudium,1,,0,0,0,0,1,0,0,0
+Studium_Anglistik,Anglistikstudium,1,,0,0,0,0,1,0,0,0
+Studium_BWL,BWL Studium,1,,0,0,0,0,1,0,0,0
+Studium_Geographie,Geographiestudium,1,,0,0,0,0,1,0,0,0
+Studium_Germanistik,Germanistikstudium,1,,0,0,0,0,1,0,0,0
+Studium_Germanistische_Linguistik,Studium der Germanistischen Linguistik,1,,0,0,0,0,1,0,0,0
+Studium_Geschichte,Geschichtsstudium,1,,0,0,0,0,1,0,0,0
+Studium_Journalistik,Journalistikstudium,1,,0,0,0,0,1,0,0,0
+Studium_Jura,Jurastudium,1,,0,0,0,0,1,0,0,0
+Studium_Literatur,Literaturstudium,1,,0,0,0,0,1,0,0,0
+Studium_Medien,Medienstudium,1,,0,0,0,0,1,0,0,0
+Studium_Medienwirtschaft,Medienwirtschaftsstudium,1,,0,0,0,0,1,0,0,0
+Studium_Medienwissenschaft,Medienwissenschaftsstudium,1,,0,0,0,0,1,0,0,0
+Studium_Nordamerikastudien,Studium der Nordamerikastudien,1,,0,0,0,0,1,0,0,0
+Studium_Philosophie,Philosophiestudium,1,,0,0,0,0,1,0,0,0
+Studium_Politik,Politikstudium,1,,0,0,0,0,1,0,0,0
+Studium_Psychologie,Psychologiestudium,1,,0,0,0,0,1,0,0,0
+Studium_Schauspiel,Schauspielstudium,1,,0,0,0,0,1,0,0,0
+Studium_Skandinavistik,Skandinavistikstudium,1,,0,0,0,0,1,0,0,0
+Studium_Spanisch,Spanischstudium,1,,0,0,0,0,1,0,0,0
+Studium_Sport,Sportstudium,1,,0,0,0,0,1,0,0,0
+Studium_Studium,Studium,1,,0,0,0,0,1,0,0,0
+Studium_Volkswirtschaftslehre,Studium der Volkswirtschaftslehre,1,,0,0,0,0,1,0,0,0
+TV_ARD,ARD,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+TV_BahnTV,Bahn TV,1,privat,0,0,1,0,0,0,0,0
+TV_BR,Bayrischer Rundfunk,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+TV_DasVierte,Das Vierte,1,privat,0,0,1,0,0,0,0,0
+TV_DeutscheWelleTV,Deutsche Welle TV,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+TV_DFF,DFF,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+TV_DisneyChannel,DisneyChannel,1,privat,0,0,1,0,0,0,0,0
+TV_Fraport,Fraport,1,privat,0,0,1,0,0,0,0,0
+TV_Hamburg1,Hamburg1,1,privat,0,0,1,0,0,0,0,0
+TV_HR3,HR3,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+TV_MDR,MDR,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+TV_N24,N24,1,privat,0,0,1,0,0,0,0,0
+TV_NRWTV,NRW TV,1,privat,0,0,1,0,0,0,0,0
+TV_NTV,NTV,1,privat,0,0,1,0,0,0,0,0
+TV_ProSieben,ProSieben,1,privat,0,0,1,0,0,0,0,0
+TV_RBB,RBB,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+TV_RheinMainTV,RheinMainTV,1,privat,0,0,1,0,0,0,0,0
+TV_RTL,RTL,1,privat,0,0,1,0,0,0,0,0
+TV_SAT1,SAT1,1,privat,0,0,1,0,0,0,0,0
+TV_Sport1,Sport 1,1,privat,0,0,1,0,0,0,0,0
+TV_SuperRTL,SuperRTL,1,privat,0,0,1,0,0,0,0,0
+TV_SWR,SWR,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+TV_TierTV,TierTV,1,privat,0,0,1,0,0,0,0,0
+TV_VOX,Vox,1,privat,0,0,1,0,0,0,0,0
+TV_WDR,WDR,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+TV_ZDF,ZDF,1,oeffentlich rechtlich,0,0,1,0,0,0,0,0
+UlrichWC,Wolf-Christian Ulrich,0,,0,0,0,0,0,0,0,0
+Volontariat_Radio_RadioGong,Volontariat Radio Gong,1,privat,0,0,0,1,0,0,0,1
+Volontariat_Radio_RadioSaw,Volontariat Radio SAW,1,privat,0,0,0,1,0,0,0,1
+Volontariat_Radio_RadioWuppertal,Volontariat Radio Wuppertal,1,,0,0,0,1,0,0,0,1
+Volontariat_TV_NBC,Volontariat NBC,1,privat,0,0,1,0,0,0,0,1
+Volontariat_TV_NDR,Volontariat NDR,1,oeffentlich rechtlich,0,0,1,0,0,0,0,1
+Volontariat_TV_SAT1,Volontariat Sat1,1,privat,0,0,1,0,0,0,0,1
+Volontariat_TV_WDR,Volontariat WDR,1,oeffentlich rechtlich,0,0,1,0,0,0,0,1
+WackertC,Christian Wackert,1,,0,0,0,0,0,0,0,0
+Zeitung_EberswalderAltstadtnachrichten,Eberswalder Altstadtnachrichten,1,privat,0,1,0,0,0,0,0,0
+Zeitung_MaerkischeVolksstimme,Maerkische Volksstimme,1,privat,0,1,0,0,0,0,0,0
+Zeitung_Sueddeutsche Zeitung,Sueddeutsche Zeitung,1,privat,0,1,0,0,0,0,0,0
+Zeitung_Welt,Welt,1,privat,0,1,0,0,0,0,0,0
+Zeitung_WochenkurierHagen,Wochenkurier Hagen,1,privat,0,1,0,0,0,0,0,0
+ZimmermannA,Annika Zimmermann,0,,0,0,0,0,0,0,0,0
